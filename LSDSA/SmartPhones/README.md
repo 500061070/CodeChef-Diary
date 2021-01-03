@@ -11,7 +11,7 @@
 
 ## Constraints
 >> * 1 ≤ N ≤ 5000.
->> * 1 ≤ N ≤ 5×105.
+>> * 1 ≤ N ≤ 5×10^5.
 
 ## Example
 >> Input
